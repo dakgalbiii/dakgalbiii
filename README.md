@@ -1,4 +1,6 @@
-# 안녕 👋, I'm Alvin Shin, an aspiring AI/ML engineer based from NY
+# 안녕 👋 I'm Alvin Shin!
+*An aspiring AI/ML engineer*
+*
 
 
 ## 🌐 Socials:
