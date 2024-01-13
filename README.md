@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring AI/ML specialist based from NY</h3>
 
 <h3 align="left">Get in touch 📞</h3>
-<p align="left">
+<div display="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvin-shin/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/alvin-shin/" height="30" width="40" /></a>
 <a href="https://instagram.com/dak.galbiii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dak.galbiii" height="30" width="40" /></a>
-</p>
+</div>
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 <div display="left">
