@@ -1,7 +1,10 @@
 # 안녕 👋 I'm Alvin Shin!
-*An aspiring AI/ML engineer*
-*
+**An aspiring AI/ML engineer**
 
+* 🎓 I'm currently a computer science student at Stony Brook University.
+* 🌱 I've recently been learning AI/ML.
+* 🏗️ I'm working on a gesture + facial emotion detector application.
+* 💡 I'm always open to new opportunites and experiences!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dak.galbiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alvin-shin/) 
