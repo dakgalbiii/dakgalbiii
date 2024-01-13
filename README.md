@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <h1 align="center">안녕 👋, I'm Alvin Shin</h1>
 <h3 align="center">An aspiring AI/ML specialist based from NY</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch 📞</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvin-shin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvin-shin/" height="30" width="40" /></a>
-<a href="https://instagram.com/dak.galbiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dak.galbiii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvin-shin/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/alvin-shin/" height="30" width="40" /></a>
+<a href="https://instagram.com/dak.galbiii" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dak.galbiii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools 🛠️</h3>
