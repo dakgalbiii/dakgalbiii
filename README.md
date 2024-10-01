@@ -1,5 +1,5 @@
 # 안녕 👋 I'm Alvin Shin!
-**An aspiring AI/ML engineer**
+**An aspiring Full-stack SWE 👨‍💻**
 
 * 🎓 I'm currently a computer science student at Stony Brook University.
 * 🌱 I've recently been learning AI/ML.
